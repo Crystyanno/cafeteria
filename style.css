@@ -216,9 +216,18 @@ body{
     flex-direction: column;
 }
 
+footer{
+    margin: 80px;
+    height: 40px;
+}
 footer p{
     text-align: center;
     color: #fff;
     font-size: 1.5rem;
     margin: 1rem 0;
+}
+
+footer span{
+    text-decoration: none;
+    color: #fff;
 }
